@@ -35,7 +35,6 @@
       "id": "boundary",
       "fields": {
         "admin_level": "Number",
-        "class": "String",
         "disputed": "Number"
       },
       "minzoom": 0,
@@ -55,7 +54,6 @@
     {
       "id": "housenumber",
       "fields": {
-        "class": "String",
         "housenumber": "String"
       },
       "minzoom": 14,
